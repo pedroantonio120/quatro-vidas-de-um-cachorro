@@ -1,1 +1,23 @@
-img
+img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+h1 {
+    background-color:lightgoldenrodyellow
+}
+h2 {
+    background-color:blue
+}
+h3 {
+    background-color:aqua
+}
+p {
+    background-color:lightgreen
+}
+h4 {
+    background-color:aquamarine
+}
+ul {
+    background-color:blueviolet
+}
